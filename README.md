@@ -10,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="80"/>
 
-<h1>Hey, I'm Mr. B Eswar Babu 👋</h1>
+<h1>Hey, I'm Mr. Banala Eswar Babu 👋</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7B731&center=true&vCenter=true&width=700&lines=Associate+Professor+%7C+20+Years+of+Excellence;Python+%26+Java+Educator+%F0%9F%90%8D%E2%98%95;YouTuber+%7C+Content+Creator+%7C+Mentor;Turning+Knowledge+into+Impact+%F0%9F%9A%80" alt="Typing SVG" />
 
